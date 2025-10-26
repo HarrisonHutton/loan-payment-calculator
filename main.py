@@ -1,6 +1,6 @@
 """
 This file demonstrates a use of the Loan class, where one wants to know how
-long it would take to pay off an example loan, when making $1000 payments
+long it would take to pay off an example loan, when making $900 payments
 every 14 days.
 """
 
