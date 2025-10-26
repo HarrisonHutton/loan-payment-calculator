@@ -1,0 +1,7 @@
+{
+    "name": "Typical student loan",
+    "apr": 0.07,
+    "original_principal": 76600.00,
+    "current_principal": 72000.00,
+    "accrued_interest": 120.00
+}
